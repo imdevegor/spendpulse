@@ -1,0 +1,16 @@
+# Node / server
+node_modules/
+.env
+*.log
+prod.db
+backups/
+
+# Android
+**/build/
+*.keystore
+keystore.properties
+
+# OS/IDE
+.DS_Store
+.idea/
+.gradle/
